@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyN4NICqjYR4xu/N5DUnW9OS",
+      "authorship_tag": "ABX9TyNuh+yrUph59H+zKHov7vh+",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -28,7 +28,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 1,
+      "execution_count": 26,
       "metadata": {
         "id": "roG1UxAPTPcB"
       },
@@ -58,13 +58,13 @@
       ],
       "metadata": {
         "colab": {
-          "base_uri": "https://localhost:8080/",
-          "height": 0
+          "base_uri": "https://localhost:8080/"
         },
+        "collapsed": true,
         "id": "miCseFqITeKA",
-        "outputId": "6ed67ef6-3228-484d-ce5c-2ec542e60b08"
+        "outputId": "26780d2d-8a48-4c22-a8e9-0e38c52ec376"
       },
-      "execution_count": 2,
+      "execution_count": 27,
       "outputs": [
         {
           "output_type": "stream",
@@ -110,13 +110,12 @@
       ],
       "metadata": {
         "colab": {
-          "base_uri": "https://localhost:8080/",
-          "height": 0
+          "base_uri": "https://localhost:8080/"
         },
         "id": "rQ9ivFkGTsSl",
-        "outputId": "14c9ecf3-36cb-47dd-c072-8d6c2d6cfba9"
+        "outputId": "6bc4e04d-3e00-4558-b9a4-12db646d7d1d"
       },
-      "execution_count": 3,
+      "execution_count": 28,
       "outputs": [
         {
           "output_type": "stream",
@@ -160,13 +159,12 @@
       ],
       "metadata": {
         "colab": {
-          "base_uri": "https://localhost:8080/",
-          "height": 0
+          "base_uri": "https://localhost:8080/"
         },
         "id": "6Tpu2QLLT1l3",
-        "outputId": "e51cb296-7760-434d-d61f-b96b2291fb95"
+        "outputId": "c8fab8d7-2273-4d66-ccf3-de96241f6123"
       },
-      "execution_count": 4,
+      "execution_count": 29,
       "outputs": [
         {
           "output_type": "stream",
@@ -200,13 +198,12 @@
       ],
       "metadata": {
         "colab": {
-          "base_uri": "https://localhost:8080/",
-          "height": 0
+          "base_uri": "https://localhost:8080/"
         },
         "id": "s2KJmgNAT6rW",
-        "outputId": "57e92149-3c76-4b37-c3ef-5c8f07355015"
+        "outputId": "f20e1ba2-9dce-479d-9c34-4943798e3763"
       },
-      "execution_count": 6,
+      "execution_count": 30,
       "outputs": [
         {
           "output_type": "stream",
@@ -249,13 +246,12 @@
       ],
       "metadata": {
         "colab": {
-          "base_uri": "https://localhost:8080/",
-          "height": 0
+          "base_uri": "https://localhost:8080/"
         },
         "id": "3iLPzDf2UA9v",
-        "outputId": "b778d65f-1303-440c-8cdd-98ffc9c16f59"
+        "outputId": "6cb03cda-9de9-45ce-c40c-b2af83c13386"
       },
-      "execution_count": 7,
+      "execution_count": 31,
       "outputs": [
         {
           "output_type": "stream",
@@ -283,13 +279,12 @@
       ],
       "metadata": {
         "colab": {
-          "base_uri": "https://localhost:8080/",
-          "height": 0
+          "base_uri": "https://localhost:8080/"
         },
         "id": "IpNPiFnHUCAh",
-        "outputId": "8c0c4aac-888d-4bac-95e0-afebd016e4bd"
+        "outputId": "787aa101-67fb-4536-9272-c96b6c5bc1c1"
       },
-      "execution_count": 8,
+      "execution_count": 32,
       "outputs": [
         {
           "output_type": "stream",
@@ -326,13 +321,12 @@
       ],
       "metadata": {
         "colab": {
-          "base_uri": "https://localhost:8080/",
-          "height": 0
+          "base_uri": "https://localhost:8080/"
         },
         "id": "LAtfJcMPUFNs",
-        "outputId": "b23c4a41-66d4-477a-b647-8642312d276b"
+        "outputId": "26dae11a-1573-4e57-e09f-74c952bbe973"
       },
-      "execution_count": 10,
+      "execution_count": 33,
       "outputs": [
         {
           "output_type": "stream",
@@ -370,13 +364,12 @@
       ],
       "metadata": {
         "colab": {
-          "base_uri": "https://localhost:8080/",
-          "height": 0
+          "base_uri": "https://localhost:8080/"
         },
         "id": "ukfVxpqCUH61",
-        "outputId": "69d92dec-0ee5-4d3e-c33a-52997d6f609a"
+        "outputId": "906f485d-c30c-4203-cd8a-2d6776259291"
       },
-      "execution_count": 9,
+      "execution_count": 34,
       "outputs": [
         {
           "output_type": "stream",
@@ -418,13 +411,12 @@
       ],
       "metadata": {
         "colab": {
-          "base_uri": "https://localhost:8080/",
-          "height": 0
+          "base_uri": "https://localhost:8080/"
         },
         "id": "3MMuj8JoURiN",
-        "outputId": "6f40d137-446f-4faf-a75a-239a44786a94"
+        "outputId": "0383969d-fa2a-474f-be4a-71c84a9d30a3"
       },
-      "execution_count": 11,
+      "execution_count": 35,
       "outputs": [
         {
           "output_type": "stream",
@@ -461,13 +453,12 @@
       ],
       "metadata": {
         "colab": {
-          "base_uri": "https://localhost:8080/",
-          "height": 0
+          "base_uri": "https://localhost:8080/"
         },
         "id": "zRDsMD_aUWPn",
-        "outputId": "be617f0a-586a-4ee0-d5b0-39964f8f571f"
+        "outputId": "d89555b3-caa5-4d0a-b625-15f9e46f862f"
       },
-      "execution_count": 12,
+      "execution_count": 36,
       "outputs": [
         {
           "output_type": "stream",
@@ -527,13 +518,12 @@
       ],
       "metadata": {
         "colab": {
-          "base_uri": "https://localhost:8080/",
-          "height": 0
+          "base_uri": "https://localhost:8080/"
         },
         "id": "lda4mxn3UYDO",
-        "outputId": "9af2aeed-c0dd-4870-f544-2cadb7695e28"
+        "outputId": "7f3edb14-8514-4e25-b4c8-b9fd905f5a27"
       },
-      "execution_count": 13,
+      "execution_count": 37,
       "outputs": [
         {
           "output_type": "stream",
@@ -587,13 +577,12 @@
       ],
       "metadata": {
         "colab": {
-          "base_uri": "https://localhost:8080/",
-          "height": 0
+          "base_uri": "https://localhost:8080/"
         },
         "id": "b7-1XenoUtiC",
-        "outputId": "65936f97-5f81-470a-a799-66d7c0bdd7ec"
+        "outputId": "f14f343a-6451-450e-80cd-9f7d98425eb7"
       },
-      "execution_count": 14,
+      "execution_count": 38,
       "outputs": [
         {
           "output_type": "stream",
@@ -643,10 +632,28 @@
         "print(f\"Std Dev: {np.std(d, ddof=1):.2f} days (sample)\")"
       ],
       "metadata": {
-        "id": "C7XSxqEXUvXk"
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "C7XSxqEXUvXk",
+        "outputId": "d08c89ec-1f60-4286-afb2-267e9428d29b"
       },
-      "execution_count": null,
-      "outputs": []
+      "execution_count": 39,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "\n",
+            "======================================================================\n",
+            "13. NUMPY STATISTICS ON LOAN DURATION\n",
+            "======================================================================\n",
+            "Mean   : 13.03 days\n",
+            "Median : 11.00 days\n",
+            "Std Dev: 10.65 days (sample)\n"
+          ]
+        }
+      ]
     },
     {
       "cell_type": "code",
@@ -665,13 +672,12 @@
       ],
       "metadata": {
         "colab": {
-          "base_uri": "https://localhost:8080/",
-          "height": 0
+          "base_uri": "https://localhost:8080/"
         },
         "id": "EToKRSeIU2Md",
-        "outputId": "7cc05b06-4626-44bc-c7b1-ebe981c4b307"
+        "outputId": "838f5128-6641-4f41-a958-8d934f1e1e41"
       },
-      "execution_count": 15,
+      "execution_count": 40,
       "outputs": [
         {
           "output_type": "stream",
@@ -730,13 +736,12 @@
       ],
       "metadata": {
         "colab": {
-          "base_uri": "https://localhost:8080/",
-          "height": 0
+          "base_uri": "https://localhost:8080/"
         },
         "id": "dkAO-1HEU5rE",
-        "outputId": "b53d416f-d063-4528-c636-378251476365"
+        "outputId": "59db79e1-dede-4215-d910-5b010c0379b6"
       },
-      "execution_count": 16,
+      "execution_count": 41,
       "outputs": [
         {
           "output_type": "stream",
@@ -751,6 +756,74 @@
             "1     Children    758\n",
             "2  Non-Fiction    643\n",
             "Saved: library_cleaned.csv, library_circulation.db, table_*.csv\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "\"\"\"Project 11: Public Library Circulation & Borrowing Analysis (tables only, no charts).\"\"\"\n",
+        "\n",
+        "import numpy as np\n",
+        "import pandas as pd\n",
+        "\n",
+        "pd.set_option(\"display.width\", 160)\n",
+        "pd.set_option(\"display.max_columns\", 30)\n",
+        "\n",
+        "def h(t):\n",
+        "    print(\"\\n\" + \"=\" * 70 + f\"\\n{t}\\n\" + \"=\" * 70)"
+      ],
+      "metadata": {
+        "id": "JDu3qcU-AaQs"
+      },
+      "execution_count": 42,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# ---- 1. Load & inspect\n",
+        "h(\"1. DIMENSIONS, COLUMNS, DTYPES\")\n",
+        "df = pd.read_csv(\"11_library_circulation.csv\")\n",
+        "print(\"Shape:\", df.shape)\n",
+        "print(df.dtypes)\n",
+        "print(df.head())"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "mLQWneAfAf2Q",
+        "outputId": "a8f49b52-1d4a-4b37-a4f0-a83d5eb7bcb3"
+      },
+      "execution_count": 43,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "\n",
+            "======================================================================\n",
+            "1. DIMENSIONS, COLUMNS, DTYPES\n",
+            "======================================================================\n",
+            "Shape: (5060, 9)\n",
+            "Loan_ID             object\n",
+            "Member_ID           object\n",
+            "Book_Title          object\n",
+            "Genre               object\n",
+            "Member_Category     object\n",
+            "Borrower_Age       float64\n",
+            "Checkout_Date       object\n",
+            "Due_Date            object\n",
+            "Return_Date         object\n",
+            "dtype: object\n",
+            "   Loan_ID Member_ID            Book_Title        Genre Member_Category  Borrower_Age Checkout_Date    Due_Date Return_Date\n",
+            "0  L104087     M1742        Cold Case Chai      Mystery         Student          15.0    27-01-2025  10-02-2025  27-02-2025\n",
+            "1  L101542     M2191    Stories of Science  Non-Fiction           Adult          35.0    09-07-2025  23-07-2025  17-07-2025\n",
+            "2  L100078     M2046  Rani and the Rainbow     Children          Senior          65.0    26-11-2025  10-12-2025  02-12-2025\n",
+            "3  L102554     M1193   The Curious Economy  Non-Fiction           Child          12.0    10-05-2025  24-05-2025  26-05-2025\n",
+            "4  L101580     M1226  The One Hour Morning    Self-Help           Adult          38.0    18-11-2025  02-12-2025  10-12-2025\n"
           ]
         }
       ]
